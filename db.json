@@ -1,0 +1,19 @@
+{
+    "lawyers": [
+      {
+        "id": "1",
+        "name": "Samuel Nia",
+        "specialized": "CRIME LAWYER"
+      },
+      {
+        "id": "2",
+        "name": "Tanya Milo",
+        "specialized": "CYBERCRIME LAWYER"
+      },
+      {
+        "id": "3",
+        "name": "Elizabeth Kia",
+        "specialized": "FAMILY LAWYER"
+      }
+    ]
+  }
